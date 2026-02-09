@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker+%7C+Linux;CI%2FCD+Enthusiast;Future+Cloud+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker+%7C+Linux+%7C+Python;CI%2FCD+Enthusiast;Future+Devops+Engineer" />
 </p>
 
 ---
@@ -34,9 +34,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,python,git,github,bash,vscode&theme=light" />
 
 </p>
+
 
 ### ☁️ Cloud
 AWS (EC2, VPC, IAM, S3 – learning hands-on)
@@ -54,7 +55,7 @@ Linux • Shell Scripting • Networking (TCP/IP, DNS, Ports, curl, ping)
 ## 📅 My Learning Journey
 
 ✨ Instead of big projects, I focus on **real practice**
-
+- 🐍 Python (Automation & Scripting)
 - Linux command labs  
 - Networking troubleshooting  
 - Docker experiments  
