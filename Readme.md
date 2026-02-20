@@ -28,6 +28,16 @@
 
 ---
 
+## 🚧 What I'm Currently Working On
+
+- 📅 *90 Days of DevOps Journey* – daily learning and hands-on practice
+- 🔧 Strengthening *Git & GitHub* workflows
+- 🖥️ Improving *Linux fundamentals* and command-line usage
+- 🐍 Practicing *Python scripting* for automation
+- 🐳 Learning *Docker* and container concepts
+- ☁️ Exploring *AWS basics* and cloud services
+
+
 <!-- ================= SKILLS ================= -->
 
 ## 🛠️ Skills & Tools
