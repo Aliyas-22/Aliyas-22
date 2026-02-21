@@ -18,17 +18,17 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 🌸 About Me
+## About Me
 
-- 🌱 Currently learning **AWS, Docker, Linux & Networking**
-- 🛠️ Practicing hands-on labs every day
-- 📚 Documenting progress → **#90DaysDevOpsJourney**
-- 🎯 Goal → Become a job-ready DevOps Engineer
-- 💙 Believe in *consistency over perfection*
+- Currently learning **AWS, Docker, Linux & Networking**
+-  Practicing hands-on labs every day
+-  Documenting progress → **#90DaysDevOpsJourney**
+-  Goal → Become a job-ready DevOps Engineer
+-  Believe in *consistency over perfection*
 
 ---
 
-## 🚧 What I'm Currently Working On
+## What I'm Currently Working On
 
 - 📅 *90 Days of DevOps Journey* – daily learning and hands-on practice
 - 🔧 Strengthening *Git & GitHub* workflows
@@ -48,16 +48,6 @@
 
 </p>
 
-
-### ☁️ Cloud
-AWS (EC2, VPC, IAM, S3 – learning hands-on)
-
-### 🐳 DevOps
-Docker • CI/CD Basics • GitHub Actions • Jenkins
-
-### 🖥️ Systems
-Linux • Shell Scripting • Networking (TCP/IP, DNS, Ports, curl, ping)
-
 ---
 
 <!-- ================= JOURNEY ================= -->
@@ -71,8 +61,6 @@ Linux • Shell Scripting • Networking (TCP/IP, DNS, Ports, curl, ping)
 - Docker experiments  
 - Shell scripting  
 - AWS fundamentals  
-
-Every day → Learn → Practice → Improve
 
 ---
 
