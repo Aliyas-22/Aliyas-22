@@ -55,7 +55,7 @@
 ## 📅 My Learning Journey
 
 ✨ Instead of big projects, I focus on **real practice**
-- 🐍 Python (Automation & Scripting)
+- Python (Automation & Scripting)
 - Linux command labs  
 - Networking troubleshooting  
 - Docker experiments  
